@@ -1,7 +1,2 @@
-2a0c:9a40:8340::/48,DE,,
-,,,
-2a06:a005:1861:0200::/56,DE,DE-BE,Berlin
-2a06:a005:1861:0300::/56,LU,LU-LU,Luxembourg
-2a06:a005:1861:1000::/52,DE,DE-HE,Frankfurt
-2a06:a005:1862::/48,DE,DE-HH,Hamburg
+2a06:a005:1860::/44,DE,DE-HH,Hamburg
 2a06:a005:1863::/48,AQ,AQ-GB,Brunt Ice Shelf
