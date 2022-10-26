@@ -1,4 +1,4 @@
-# Subnet,CountryCode,,City
+# Subnet,ISO 3166-1 alpha-2,ISO 3166-2,City
 2a06:a005:1860::/44,DE,DE-HH,Hamburg
 2a06:a005:1863::/48,AQ,AQ-GB,Brunt Ice Shelf
 ,,,
